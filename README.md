@@ -4,6 +4,14 @@
 
 본 프로젝트는 비상업 팬 프로젝트이며, Baltoro Games의 공식 프로젝트나 공식 고객 지원 서비스가 아닙니다. Pixel Cafe와 원본 게임 콘텐츠에 관한 모든 권리는 Baltoro Games 및 각 권리자에게 있습니다.
 
+## 제작 도구 사용 고지
+
+이 패치 제작에는 OpenAI의 ChatGPT 및 Codex 환경에서 `GPT-5.6 Sol`과 `GPT-6 Astra`를 범용 도구로 사용했습니다. 번역 초안 작성과 교정, 문맥 검토, 게임 데이터 분석, 작업 스크립트 작성, 패치 적용, 정적 검증과 문서 작성 등 제작 전반에 활용했습니다.
+
+번역 방향, 용어, 문체, 글꼴 구성, 적용 범위와 배포 여부는 제작자가 직접 검토하고 결정했습니다. AI 도구의 출력은 그대로 자동 배포하지 않고 검수·수정 과정을 거쳤습니다.
+
+ChatGPT와 Codex 및 위 모델의 사용은 Baltoro Games 또는 OpenAI가 이 패치를 공식 제작·승인·보증한다는 뜻이 아닙니다.
+
 `v0.8.0`은 한국어 번역과 역할별 한글 글꼴 구성을 적용한 공개 베타 버전입니다. 번역과 화면 표시는 이후 검수 및 제보에 따라 계속 수정될 수 있습니다.
 
 ## 지원 환경
@@ -119,11 +127,11 @@
 
 저장소:
 
-<https://github.com/dcinside-yangmal/PixelCafe_KoreanPatch>
+[https://github.com/dcinside-yangmal/PixelCafe\_KoreanPatch](https://github.com/dcinside-yangmal/PixelCafe_KoreanPatch)
 
 최신 버전은 GitHub Releases에서 다운로드할 수 있습니다.
 
-<https://github.com/dcinside-yangmal/PixelCafe_KoreanPatch/releases>
+[https://github.com/dcinside-yangmal/PixelCafe\_KoreanPatch/releases](https://github.com/dcinside-yangmal/PixelCafe_KoreanPatch/releases)
 
 실제 한국어 패치 설치 파일은 GitHub Releases의 **Assets**에 첨부되는 `Pixel_Cafe_Korean_Patch_vX.X.X.zip` 파일입니다.
 
@@ -135,7 +143,7 @@ GitHub가 자동 생성하는 **Source code (zip)**과 **Source code (tar.gz)**�
 
 문의, 버그와 번역 오류 제보는 GitHub Issues를 이용해 주세요.
 
-<https://github.com/dcinside-yangmal/PixelCafe_KoreanPatch/issues>
+[https://github.com/dcinside-yangmal/PixelCafe\_KoreanPatch/issues](https://github.com/dcinside-yangmal/PixelCafe_KoreanPatch/issues)
 
 다음과 같은 문제를 발견하면 제보해 주세요.
 
